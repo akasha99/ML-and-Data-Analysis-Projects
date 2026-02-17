@@ -1,6 +1,6 @@
-# Data Science Internship Projects
+# Data Science Projects
 
-This repository contains the projects completed during my Data Science Internship.
+This repository contains the projects completed during my Data Science.
 
 ## Project 1: Credit Risk Prediction 🏦
 ### Objective
