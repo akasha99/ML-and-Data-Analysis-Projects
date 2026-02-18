@@ -1,7 +1,3 @@
-# Data Science Projects
-
-This repository contains the projects completed during my Data Science.
-
 ## Project 1: Credit Risk Prediction 🏦
 ### Objective
 To build a machine learning model to predict whether a loan applicant is likely to default or not.
