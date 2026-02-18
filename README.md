@@ -1,16 +1,33 @@
-## Project 1: Credit Risk Prediction 🏦
-### Objective
-To build a machine learning model to predict whether a loan applicant is likely to default or not.
+# Applied Data Science & Machine Learning Projects
 
-### Approach
-1. **Data Cleaning:** Handled missing values in `Gender`, `Married`, and `LoanAmount` using Mode and Median imputation.
-2. **EDA:** Visualized the distribution of Loan Amount and the impact of Education on Loan Status.
-3. **Preprocessing:** Converted categorical variables into numerical format using One-Hot Encoding.
-4. **Modeling:** Trained a **Logistic Regression** model.
-
-### Results
-- **Accuracy:** ~79%
-- **Key Insight:** Applicants with a "Credit History" of 1 are significantly more likely to get a loan approved.
-- **Evaluation:** The Confusion Matrix indicates the model performs well in identifying successful applicants.
+This repository is a curated collection of end-to-end data science projects, demonstrating expertise in data engineering, predictive modeling, and insight generation from complex datasets. Each project addresses a specific business problem using a data-driven approach.
 
 ---
+
+## 📌 Featured Projects
+
+### 1. [Credit Risk Prediction Model]
+- **Business Problem:** Automating the loan approval process to minimize financial risk for a lending institution.
+- **Technical Solution:** Developed a binary classification model using **Logistic Regression** to predict loan defaults with an accuracy of **~79%**. Key focus on data cleaning and feature analysis.
+
+### 2. [Medical Insurance Cost Estimator]
+- **Business Problem:** Predicting medical insurance costs to enable data-driven pricing and accurate risk assessment for new clients.
+- **Technical Solution:** Engineered an optimized **Random Forest Regressor** with interaction features. This approach **reduced prediction error (MAE) by ~40%** compared to a baseline linear model.
+
+<!-- 
+### 3. [Project Title Coming Soon](./Project-3-Folder-Name/)
+- **Business Problem:** [Briefly describe the business need]
+- **Technical Solution:** [Briefly describe the model and key result]
+-->
+
+---
+
+## 🛠️ Core Competencies & Tech Stack
+- **Languages:** Python (Advanced)
+- **Data Engineering:** Pandas, NumPy, Data Cleaning, Feature Engineering, Handling Imbalanced Data
+- **Machine Learning:** Scikit-Learn (Classification, Regression, Ensemble Methods like Random Forest)
+- **Data Visualization:** Matplotlib, Seaborn, Statistical Data Analysis
+- **Version Control & Deployment:** Git, GitHub
+
+---
+*Open to collaborations and data-centric roles. Feel free to explore the codebases inside the respective directories.*
