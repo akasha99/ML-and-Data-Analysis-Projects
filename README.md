@@ -6,11 +6,11 @@ This repository is a curated collection of end-to-end data science projects, dem
 
 ## 📌 Featured Projects
 
-### 1. Credit Risk Prediction Model
+### 1. [Credit Risk Prediction](./Project-Credit-Risk-Prediction/)
 - **Business Problem:** Automating the loan approval process to minimize financial risk for a lending institution.
 - **Technical Solution:** Developed a binary classification model using **Logistic Regression** to predict loan defaults with an accuracy of **~79%**. Key focus on data cleaning and feature analysis.
 
-### 2. Medical Insurance Cost Estimator
+### 2. [Medical Insurance Claim Prediction](./Project-Medical-Insurance-Claim/)
 - **Business Problem:** Predicting medical insurance costs to enable data-driven pricing and accurate risk assessment for new clients.
 - **Technical Solution:** Engineered an optimized **Random Forest Regressor** with interaction features. This approach **reduced prediction error (MAE) by ~40%** compared to a baseline linear model.
 
