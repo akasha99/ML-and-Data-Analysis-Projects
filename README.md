@@ -21,6 +21,12 @@ This repository is a curated collection of end-to-end data science projects, dem
 *   **Core Skills:** Categorical Encoding, Feature Importance Analysis, Standardized Scaling, Random Forest Classification.
 
 
+### 5. [Personal Loan Acceptance Prediction](./Project-Loan-Acceptance/)
+*   **Domain:** Banking / Marketing ROI
+*   **Tech:** Decision Tree Classification
+*   **Outcome:** Optimized marketing targeting by identifying high-conversion customer segments.
+
+
 ---
 
 ## 🛠️ Core Competencies & Tech Stack
